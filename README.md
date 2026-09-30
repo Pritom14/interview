@@ -126,6 +126,7 @@
 * Moxie Marlinspike – [Career Advice](https://moxie.org/blog/career-advice/)
 * Dan Luu – [We Only Hire the Trendiest](http://danluu.com/programmer-moneyball/)
 * Reginald Long – [How I went from failing every interview to a job at Amazon](http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/)
+* [Blind – Tech Interview Discussions and Experiences](https://www.blind.com/) *"Anonymous community for discussing tech interviews"*
 
 ### Mock interviews
 
